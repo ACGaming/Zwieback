@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "zwieback:zwieback"
+    }
+  ],
+  "result": {
+    "item": "zwieback:zwieback_slice",
+    "count": 8
+  },
+  "group": "food"
+}

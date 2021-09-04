@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "zwieback:einback"
+  },
+  "result": "zwieback:zwieback",
+  "experience": 0.1,
+  "cookingtime": 200
+}

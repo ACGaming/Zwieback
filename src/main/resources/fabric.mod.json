@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "zwieback",
+  "version": "${version}",
+  "name": "Zwieback",
+  "description": "Your favorite mild diet in Minecraft!",
+  "authors": ["ACGaming"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/zwieback/icon.png",
+  "environment": "*",
+  "entrypoints": {"main": ["mod.acgaming.zwieback.ZwiebackMod"]},
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.11.6",
+    "fabric": "*",
+    "minecraft": "1.17.1"
+  }
+}

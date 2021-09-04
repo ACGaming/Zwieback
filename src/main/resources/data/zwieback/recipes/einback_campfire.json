@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {
+    "item": "zwieback:raw_einback"
+  },
+  "result": "zwieback:einback",
+  "experience": 0.35,
+  "cookingtime": 100
+}
